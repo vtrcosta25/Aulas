@@ -1,0 +1,2 @@
+cd.. - retorna a pasta anterior pelo diretório.
+cd space "nome da pasta" - entra na pasta selecionada

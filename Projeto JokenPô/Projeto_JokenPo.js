@@ -10,7 +10,7 @@ let nome = prompt("Qual o seu nome: ");
 console.log(`Olá ${nome}, seja bem vindo ao jogo JokenPô`); // Interação com usuário
 console.log();
 
-// comando para funcionar as rodadas 
+// comando para funcionar as rodadas.
 do {
   do {
     num_rodadas = +prompt("Digite a quantidade de rodadas que deseja jogar: ");

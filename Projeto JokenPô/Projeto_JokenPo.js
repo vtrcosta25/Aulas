@@ -42,7 +42,7 @@ do {
     console.log();
     
 
-    // estrutura das condições
+    // estrutura das condições.
     if (escolha_IA == escolha_jogador) {
       console.log("Empate\n");
       empate++;

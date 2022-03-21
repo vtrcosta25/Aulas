@@ -119,4 +119,3 @@ while (true) {
         console.log();
         console.log("Parabéns, você conseguiu melhorar todos  os aspectos deixando sua rotina diária melhor.")   
     }
-

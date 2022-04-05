@@ -26,9 +26,9 @@ function tempo (hora, minuto){
 }
 
 
-// OBJETO STATUS
+//  STATUS PERSONAGEM
 
-var status = {
+let status = {
     vida: 100,
     fome: 20,
     carisma : 0,
